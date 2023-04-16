@@ -1,0 +1,32 @@
+Hello If your slow asf read the bottom text <3
+
+
+
+Dont delete, Rename or touch any of these files
+
+Modification to the Batch File is all on the users side, even tho it is perfered to not fiddle with it
+
+
+
+Spoofer may not work if these Warnings are violated/Ignored
+
+
+
+1. Reinstall your Windows entirely ( Remember if you are in Windows 11, you'll have to go back to Windows 10, Due to Win 11 Forcing TPM 2.0)
+
+1.5. Make sure you have the fresh install, then follow along with the rest!!!
+
+2. Make sure TPM 2.0 is off in bios, Same Shit with secure boot, and if you have it (gigabyte) "TPK/PTK" (Optional).
+
+2.5. Flash BIOS, For Cringy Prebuilt ASUS users, upgrade/downgrade for your specific motherboard. But if you dont have ASUS you can simply use the same Bios Version. Bios Example: F10 (Gigabyte Z390 Elite)
+
+3. Change serials (DMIEDIT/AMIDEWIN) Change System Serial Number, UUID, and Mobo Serial Number.
+
+4. Use Hard Disk Serial Number Changer/Volume Id, and change C: Drive or if you want all disks.
+
+5. Change Your Mac Address, *I have included a free public spoofer by yours truly*
+
+6. Your Done, Feel Free to leave any comments in this forum or in my discord. For further help *dont be lazy try the method first* then you can message me or follow the video.
+
+
+IF YOU GET BANNED / SHADOW BANNED IS CAUSE YOU DIDNT DO A STEP CORRECTLY OR YOUR MOTHERBOARD ISNT COMPATIBLE WITH DMI EDIT / AMI Products.
